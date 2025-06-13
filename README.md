@@ -8,6 +8,12 @@ This project includes two tools for planning a wedding or large event:
 2. **Table Calculator**  
    Calculates all possible table configurations (round, rectangle, or mixed) to accommodate a given number of guests. Includes min/max seating ranges and extra values.
 
+Requirements
+Python 3.6+
+No external dependencies
+
+This project is open-source and free to use for personal or event planning purposes. 
+
 ---
 
 ## 1. Seating Chart Generator
