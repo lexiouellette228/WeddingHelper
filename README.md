@@ -35,5 +35,5 @@ This project includes two tools for planning a wedding or large event:
 ### How to Run
 
 ```bash
-python seating_chart.py
-python table_calculator.py
+python SeatingChartGenerator.py
+python TableCalculator.py
