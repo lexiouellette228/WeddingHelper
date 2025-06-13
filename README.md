@@ -19,11 +19,6 @@ This project includes two tools for planning a wedding or large event:
 - Console-based and easy to configure
 - Optional: can be integrated into a GUI (Tkinter)
 
-### How to Run
-
-```bash
-python seating_chart.py
-
 ---
 
 ## 2. Seating Chart Generator
@@ -40,4 +35,5 @@ python seating_chart.py
 ### How to Run
 
 ```bash
+python seating_chart.py
 python table_calculator.py
