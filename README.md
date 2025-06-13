@@ -20,6 +20,8 @@ This project includes two tools for planning a wedding or large event:
 - Optional: can be integrated into a GUI (Tkinter)
 
 ### How to Run
+
+```bash
 python seating_chart.py
 
 ---
