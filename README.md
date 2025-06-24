@@ -26,7 +26,7 @@ No external dependencies
 
 ---
 
-## 2. Seating Chart Generator
+## 2. Table Calculator
 
 ### Features
 - Supports various round and rectangle table sizes:
